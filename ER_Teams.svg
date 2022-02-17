@@ -216,8 +216,8 @@
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="633.719" y1="716.004" x2="635.35" y2="687"/>
     <g>
       <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="387,734.03 457.05,692 527.1,734.03 457.05,776.06 "/>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="381" y="728.03">1</text>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.1" y="728.03">n</text>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="381" y="728.03">n</text>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.1" y="728.03">1</text>
       <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="457.05" y="737.911">GameScoreUnit</text>
     </g>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="328.497" y1="734.462" x2="387" y2="734.03"/>
