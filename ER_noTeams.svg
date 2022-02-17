@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="37cm" height="36cm" viewBox="8 102 739 718" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="41cm" height="37cm" viewBox="8 102 816 722" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g id="Hintergrund">
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="217" y="214" width="74.2" height="36"/>
@@ -109,13 +109,13 @@
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="255.4" y1="499" x2="256.35" y2="568"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="256.35" y1="642.82" x2="255.75" y2="717"/>
     <g>
-      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="165,359.58 254.3,306 343.6,359.58 254.3,413.16 "/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.3" y="300">1</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.3" y="435.16">n</text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="254.3" y="363.461">SinglePlayerScores</text>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="165,357.27 250.45,306 335.9,357.27 250.45,408.54 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="254.45" y="300">1</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="254.45" y="430.54">n</text>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="250.45" y="361.151">SinglePlayerScore</text>
     </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="254.3" y1="413.16" x2="255.4" y2="463"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="254.1" y1="250" x2="254.3" y2="306"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="250.45" y1="408.54" x2="255.4" y2="463"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="254.1" y1="250" x2="250.45" y2="306"/>
     <g>
       <ellipse style="fill: #ffffff; fill-opacity: 1; stroke: none" cx="120.8" cy="299" rx="50.8" ry="18"/>
       <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="120.8" cy="299" rx="50.8" ry="18"/>
@@ -133,16 +133,41 @@
       <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="351.25" cy="301" rx="39.25" ry="18"/>
       <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="351.25" y="304.881">Score</text>
     </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="209.65" y1="332.79" x2="171.6" y2="299"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="165" y1="359.58" x2="131.2" y2="359"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="298.95" y1="332.79" x2="351.25" y2="319"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="207.725" y1="331.635" x2="171.6" y2="299"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="165" y1="357.27" x2="131.2" y2="359"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="293.175" y1="331.635" x2="351.25" y2="319"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="169.072" y1="496.472" x2="226" y2="481"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="284.8" y1="481" x2="329" y2="502"/>
     <g>
-      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke: none" cx="237.65" cy="794" rx="54.65" ry="18"/>
-      <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="237.65" cy="794" rx="54.65" ry="18"/>
-      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="237.65" y="797.881">ScoreUnit</text>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke: none" cx="708.65" cy="798" rx="54.65" ry="18"/>
+      <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="708.65" cy="798" rx="54.65" ry="18"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="708.65" y="801.881">ScoreUnit</text>
     </g>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="237.65" y1="776" x2="255.75" y2="753"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="708.65" y1="780" x2="662.3" y2="753"/>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="375,735.03 445.05,693 515.1,735.03 445.05,777.06 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="369" y="729.03">n</text>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="521.1" y="729.03">1</text>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="445.05" y="738.911">GameScoreUnit</text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="565" y="717" width="97.3" height="36"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="613.65" y="738.881">ScoreUnit</text>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke: none" cx="760.35" cy="735" rx="62.35" ry="18"/>
+      <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="760.35" cy="735" rx="62.35" ry="18"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="760.35" y="738.881">ScoreUnitID</text>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="718" y1="743" x2="802.7" y2="743"/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="327.5" y1="735" x2="375" y2="735.03"/>
+    <g>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke: none" cx="236.35" cy="805" rx="62.35" ry="18"/>
+      <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="236.35" cy="805" rx="62.35" ry="18"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="236.35" y="808.881">ScoreUnitID</text>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="236.35" y1="787" x2="255.75" y2="753"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="515.1" y1="735.03" x2="565" y2="735"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="662.3" y1="735" x2="698" y2="735"/>
   </g>
 </svg>
