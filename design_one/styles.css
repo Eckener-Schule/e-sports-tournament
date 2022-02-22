@@ -171,3 +171,8 @@
         .list-item a:hover:not(.active) {
             background-color: #ddd;
         }
+        @media only screen and (max-height: 762px) {
+            .card-2 {
+                margin-top: 400px;
+            }
+        }
