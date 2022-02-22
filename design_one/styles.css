@@ -37,6 +37,7 @@
 
         .content {
             width: 100%;
+            margin: 80px 0;
         }
 
         .container {
@@ -125,17 +126,75 @@
 /*rules.html styles*/
 /*singin.html styles*/
 
+/*datenschutz.html styles*/
+.content-datenschutz {
+    margin: 80px 0;
+            margin-left: 250px;
+}
+.info-text-datenschutz, .hinweise, .server, .cookies, .kontakt, .widerspruch {
+    margin-bottom: 40px;
+    width: 70%;
+}
+        @media only screen and (max-width: 952px) {
+.content-datenschutz {
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 0;
+}
+.info-text-datenschutz, .hinweise, .server, .cookies, .kontakt, .widerspruch {
+    width: 100%;
+}
+        }
+
+
+/*impressum.html styles*/
+.content-impressum {
+    margin: 80px 0; 
+            margin-left: 250px;
+}
+.name {
+margin-bottom: 20px;
+}
+.leiter {
+margin-bottom: 20px;
+}
+.info, .träger,.team, .datenbeauftragter {
+margin-bottom: 40px;
+}
+.text {
+    margin-top: 20px;
+    width: 70%;
+}
+.detail {
+    margin: 20px 0;
+}
+.iheading {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+        @media only screen and (max-width: 1052px) {
+.content-impressum {
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 0px;
+}
+.text {
+    width: 100%;
+}
+        }
+
 /*styles that are reused on every site*/
        body {
             font-family: Segoe UI;
             margin: 0;
             padding: 0;
             background: white;
-            display: flex;
             font-family: 'Roboto', Arial;
-            justify-content: center;
-            align-items: center;
             width: 100%;
+        }
+        a {
+            text-decoration: none;
+            color: #8c8c8c;
         }
 
         p {
@@ -148,8 +207,12 @@
             width: 100%;
             height: 46px;
         }
-
-        .list {
+        .navbar-right {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        .list, .list-2 {
             list-style-type: none;
             margin: 0;
             padding: 0;
