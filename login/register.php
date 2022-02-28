@@ -11,7 +11,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
  
     // Validate username
     if(empty(trim($_POST["username"]))){
-        $username_err = "Please enter a username.";
+        $username_err = "Bitte gib einen Nutzernamen an";
     } elseif(!preg_match('/^[a-zA-Z0-9_]+$/', trim($_POST["username"]))){
         $username_err = "Der Nutzername kann nur  Buchstaben, Nummern and Unterstriche behinhalten.";
     } else{
@@ -55,7 +55,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     
     // Validate confirm password
     if(empty(trim($_POST["confirm_password"]))){
-        $confirm_password_err = "Bitte Widerhole dein Passwort.";     
+        $confirm_password_err = "Bitte wiederhole dein Passwort.";     
     } else{
         $confirm_password = trim($_POST["confirm_password"]);
         if(empty($password_err) && ($password != $confirm_password)){
