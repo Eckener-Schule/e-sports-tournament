@@ -36,7 +36,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                     $username = trim($_POST["username"]);
                 }
             } else{
-                echo "Oops, etwas hat ist schiefgelaufen ";
+                echo "Oops, etwas ist schiefgelaufen ";
             }
 
             // Close statement
@@ -59,7 +59,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     } else{
         $confirm_password = trim($_POST["confirm_password"]);
         if(empty($password_err) && ($password != $confirm_password)){
-            $confirm_password_err = "Das Passwort passt nicht";
+            $confirm_password_err = "Das Passwort passt nicht !";
         }
     }
     
@@ -82,7 +82,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 // Redirect to login page
                 header("location: login.php");
             } else{
-                echo "Oops! Something went wrong. Please try again later.";
+                echo "Oops, etwas ist schiefgelaufen. Versuch es später noch einmal !";
             }
 
             // Close statement
@@ -109,7 +109,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <body>
     <div class="wrapper">
         <h2>Sign Up</h2>
-        <p>Please fill this form to create an account.</p>
+        <p>Bitte füllen Sie das Formulat aus !</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group">
                 <label>Username</label>
@@ -130,7 +130,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <input type="submit" class="btn btn-primary" value="Submit">
                 <input type="reset" class="btn btn-secondary ml-2" value="Reset">
             </div>
-            <p>Already have an account? <a href="login.php">Login here</a>.</p>
+            <p>Sie besitzen bereits einen Account? <a href="login.php">Login hier</a>.</p>
         </form>
     </div>    
 </body>
